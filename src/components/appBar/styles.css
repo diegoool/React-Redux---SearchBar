@@ -1,0 +1,8 @@
+.appBar {
+    display:flex;
+    justify-content: space-between;
+}
+
+.toolBar {
+    justify-content: space-between;
+}
